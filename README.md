@@ -1,5 +1,7 @@
 # react-typescript-bolierplate
 
+bolierplate for react project with esline, prettier
+
 ## installation
 ```npm install``` or ```yarn```
 
