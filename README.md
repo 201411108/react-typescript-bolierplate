@@ -15,6 +15,8 @@ bolierplate for react project with esline, prettier
 - react/jsx-filename-extension
 - @typescript-eslint/explicit-module-boundary-types
 
+if you want to add or delete rules, write in `.eslintrc.json`
+
 ## Prettier options
 - singleQuote
 - jsxSingleQuote
